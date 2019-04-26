@@ -1,6 +1,6 @@
 ---
 title: Über mich
-date: 2017-01-01T00:00:00.000Z
+date: 2019-04-28
 permalink: /about/index.html
 navtitle: Über mich
 tags:
