@@ -1,7 +1,7 @@
 :root {
-	--turkey: #FFF0EB;
+	--turkey: rgb(236, 236, 236);
 	--white: white;
-	--blue: blue;
+	--blue: rgb(94, 94, 94);
 }
 
 *, *:before, *:after {
@@ -22,7 +22,7 @@ body {
 	background-color: var(--turkey);
 }
 
-main {
+main, header, footer {
 	max-width: 37.5em;
 	margin: 0 auto;
 }
