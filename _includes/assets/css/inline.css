@@ -46,6 +46,9 @@ header,
 main,
 footer {
 	padding: 1em;
+}
+
+footer{
 	text-align: center;
 }
 
