@@ -46,6 +46,7 @@ header,
 main,
 footer {
 	padding: 1em;
+	text-align: center;
 }
 
 main {
