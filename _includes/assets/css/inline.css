@@ -87,6 +87,8 @@ header > em {
 	text-align: center;
 	font-weight: bold;
 	font-style: normal;
+	text-transform: uppercase;
+	letter-spacing: 3px;
 }
 
 /* Header Nav */
@@ -97,6 +99,7 @@ header nav{
 header nav li {
 	display: inline-block;
 	margin: 0 .5em;
+	text-transform: uppercase;
 }
 
 header nav li a[href]:not(:hover) {
