@@ -84,6 +84,7 @@ header > em {
 	display: block;
 	font-size: 1em;
 	margin: .67em auto;
+	text-align: center;
 	font-weight: bold;
 	font-style: normal;
 }
@@ -91,10 +92,6 @@ header > em {
 /* Header Nav */
 header nav{
 	text-align: center;
-}
-
-header nav ul :first-child {
-	margin-left: 0;
 }
 
 header nav li {
@@ -120,7 +117,8 @@ article {
 }
 
 article h2{
-	font-size: .8em;
+	font-size: 1em;
+	max-width: 70%;
 }
 
 main > section > article > * {
