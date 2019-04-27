@@ -82,13 +82,17 @@ ul {
 /* Header Logo (style as h2) */
 header > em {
 	display: block;
-	font-size: 2em;
-	margin: .67em 0;
+	font-size: 1em;
+	margin: .67em auto;
 	font-weight: bold;
 	font-style: normal;
 }
 
 /* Header Nav */
+header nav{
+	text-align: center;
+}
+
 header nav ul :first-child {
 	margin-left: 0;
 }
@@ -113,6 +117,10 @@ article {
 	padding-bottom: 1em;
 	border-bottom: 1px solid #eee;
 	border-bottom: 1px solid var(--white);
+}
+
+article h2{
+	font-size: .8em;
 }
 
 main > section > article > * {
